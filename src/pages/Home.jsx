@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
   return (
     <div>
-      <div className='hero min-h-screen bg-[url(/src/assets/Hero.jpg)] bg-cover bg-no-repeat'>
+      <div className='hero min-h-screen'>
         <div className='hero-overlay bg-opacity-60'></div>
         <div className='hero-content text-center text-neutral-content'>
           <div className='max-w-md'>
