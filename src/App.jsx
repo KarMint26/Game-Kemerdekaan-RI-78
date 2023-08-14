@@ -7,7 +7,7 @@ export default function App() {
     <>
       <Routes>
         <Route path="/" exact element={<Home />} />
-        <Route path="/game-kemerdekaan-ri" element={<Game />} />
+        <Route path="/game-balap-karung" element={<Game />} />
       </Routes>
     </>
   );

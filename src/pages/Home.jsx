@@ -9,7 +9,7 @@ const Home = () => {
           <div className='max-w-md'>
             <h1 className='mb-5 text-3xl sm:text-5xl font-bold'>Selamat Datang</h1>
             <p className='mb-5 text-sm sm:text-base font-semibold'>Ini adalah website untuk memainkan game dalam rangka memperingati kemerdekaan RI yang ke-78 <br /> Dirgahayu Republik Indonesia</p>
-            <Link to='/game-kemerdekaan-ri' className='btn btn-primary text-white'>Main Sekarang</Link>
+            <Link to='/game-balap-karung' className='btn btn-primary text-white'>Main Sekarang</Link>
           </div>
         </div>
       </div>
